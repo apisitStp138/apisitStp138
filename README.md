@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apisitStp138
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and studying React (JS, TS) and Node JS whith TS
+- 🌱 I’m currently learning JavaScript and studying React (JS, TS) and Node JS with TS
 - 📫 How to reach me at email apisit.satipa@gmail.com
 
 <!---
