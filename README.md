@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apisitStp138
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and studying React (JS, TS) and Node JS with TS
+- 👀 Developer with a passion for web development and backend systems
+- 🌱 Use skills in JavaScript, TypeScript, Node.js, React and PHP to develop efficient, secure, and scalable software
 - 📫 How to reach me at email apisit.satipa@gmail.com
 
 <!---
